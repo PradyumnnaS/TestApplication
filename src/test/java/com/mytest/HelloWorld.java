@@ -14,5 +14,10 @@ public class HelloWorld {
 			System.out.println("Hello Learning");
 		}
 		
+		@Test
+		public void testHappyLearningJenkins() {
+			System.out.println("Hello Learning Jenkins");
+		}
+		
 	
 }
