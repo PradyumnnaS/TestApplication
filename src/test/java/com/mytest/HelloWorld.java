@@ -9,5 +9,10 @@ public class HelloWorld {
 			System.out.println("Hello World");
 		}
 		
+		@Test
+		public void testHappyLearning() {
+			System.out.println("Hello Learning");
+		}
+		
 	
 }
